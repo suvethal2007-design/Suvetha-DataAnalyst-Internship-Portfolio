@@ -41,6 +41,4 @@ This portfolio showcases the projects completed during my Data Analyst Internshi
 - Data Storytelling
 - Analytical Thinking
 
-## Connect With Me
-LinkedIn: [Your LinkedIn URL]
-GitHub: [Your GitHub URL]
+
